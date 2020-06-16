@@ -1,0 +1,19 @@
+{
+  "name": "teaching-olzie",
+  "version": "1.0.0",
+  "description": "Teaching Olzie JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mattx8y/teaching-olzie-js.git"
+  },
+  "author": "Mattx8y",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mattx8y/teaching-olzie-js/issues"
+  },
+  "homepage": "https://github.com/Mattx8y/teaching-olzie-js#readme"
+}
